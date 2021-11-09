@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/nlLIFsrosSd0U3gHso/giphy.gif?cid=ecf05e47c4sl6fgz5reyx34ondxb6va79f2x13rlj5c0w4er&rid=giphy.gif&ct=ts" width="100">
 
 <h2>I'm Leah Carlin!</h2>
-<img align='right' src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized-large.gif" width="230">
 
 I'm a junior web-developer and recent graduate of [Codaisseur Javascript Academy](https://codaisseur.com/) in Amsterdam where I learned cutting-edge and in-demand technologies. I'm comfortable building full stack applications and eager to dive into new challenges.
 
