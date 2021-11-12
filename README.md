@@ -39,5 +39,5 @@ I'm based in Amsterdam, Netherlands, and currently looking for a new position th
   </p>
 
 <p>
-  <img width="250" src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
