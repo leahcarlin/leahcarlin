@@ -38,8 +38,7 @@ I'm based in Amsterdam, Netherlands, and currently looking for a new position th
   <a href="mailto:leah.r.carlin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   </p>
 
-<p>
+<!-- <p>
   <img width="250" src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif">
 </p>
-    
-    <iframe src="https://giphy.com/embed/AYECTMLNS4o67dCoeY" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+     -->
