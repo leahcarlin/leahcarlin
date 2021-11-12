@@ -1,7 +1,6 @@
 <img src="https://media2.giphy.com/media/nlLIFsrosSd0U3gHso/giphy.gif?cid=ecf05e47c4sl6fgz5reyx34ondxb6va79f2x13rlj5c0w4er&rid=giphy.gif&ct=ts" width="100">
 
 <h2>I'm Leah Carlin!</h2>
-<img align='right'src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif" width="230">
 
 I'm a junior web-developer and recent graduate of [Codaisseur Javascript Academy](https://codaisseur.com/) in Amsterdam where I learned cutting-edge and in-demand technologies. I'm comfortable building full stack applications and eager to dive into new challenges.
 
@@ -24,13 +23,21 @@ I'm a junior web-developer and recent graduate of [Codaisseur Javascript Academy
 
 For my Codaisseur portfolio project I built an app that allows users to create wish lists of restaurants they want to try. Users can share wish lists with friends and there can be multiple collaborators on a list. The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM. I fetched data from Google Places API and rendered a map for each restaurant as well.
 
+#### 💻 Give me the GIF
+
+For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
+
 ### Get In Touch:
 
 I'm based in Amsterdam, Netherlands, and currently looking for a new position that blends the art of design with the skill of programming to create impactful web applications.
 
 #### Let's connect!
+
   <p>
   <a href="https://www.linkedin.com/in/leah-carlin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
   <a href="mailto:leah.r.carlin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   </p>
 
+<p>
+  <img width="250" src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif">
+</p>
