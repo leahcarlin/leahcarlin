@@ -23,13 +23,13 @@ I'm a junior web-developer and recent graduate of [Codaisseur Javascript Academy
 
 For my Codaisseur portfolio project I built an app that allows users to create wish lists of restaurants they want to try. Users can share wish lists with friends and there can be multiple collaborators on a list. The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM. I fetched data from Google Places API and rendered a map for each restaurant as well.
 
-Delish List Repositoroies: <a href="https://github.com/leahcarlin/delishlist-frontend">Front End</a> / <a href="https://github.com/leahcarlin/delishlist-backend">Back End</a>
+Delish List Repositories: <a href="https://github.com/leahcarlin/delishlist-frontend">Front End</a> / <a href="https://github.com/leahcarlin/delishlist-backend">Back End</a>
 
 #### 💻 Give me the GIF
 
 For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
 
-Give me the GIF Repositoroies: <a href="https://github.com/leahcarlin/first-frontend">Front End</a> / <a href="https://github.com/leahcarlin/first-backend">Back End</a>
+Give me the GIF Repositories: <a href="https://github.com/leahcarlin/first-frontend">Front End</a> / <a href="https://github.com/leahcarlin/first-backend">Back End</a>
 
 ### Get In Touch:
 
