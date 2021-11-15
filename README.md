@@ -23,9 +23,13 @@ I'm a junior web-developer and recent graduate of [Codaisseur Javascript Academy
 
 For my Codaisseur portfolio project I built an app that allows users to create wish lists of restaurants they want to try. Users can share wish lists with friends and there can be multiple collaborators on a list. The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM. I fetched data from Google Places API and rendered a map for each restaurant as well.
 
+Delish List Repositoroies: <a href="https://github.com/leahcarlin/delishlist-frontend">Front End</a> / <a href="https://github.com/leahcarlin/delishlist-backend">Back End</a>
+
 #### 💻 Give me the GIF
 
 For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
+
+Give me the GIF Repositoroies: <a href="https://github.com/leahcarlin/first-frontend">Front End</a> / <a href="https://github.com/leahcarlin/first-backend">Back End</a>
 
 ### Get In Touch:
 
@@ -37,3 +41,7 @@ I'm based in Amsterdam, Netherlands, and currently looking for a new position th
   <a href="https://www.linkedin.com/in/leah-carlin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
   <a href="mailto:leah.r.carlin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   </p>
+
+<p>
+  <img width="250" src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif" alt="Footer">
+</p>
