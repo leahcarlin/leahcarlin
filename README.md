@@ -41,7 +41,3 @@ I'm based in Amsterdam, Netherlands, and currently looking for a new position th
   <a href="https://www.linkedin.com/in/leah-carlin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
   <a href="mailto:leah.r.carlin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   </p>
-
-<p>
-  <img width="250" src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif" alt="Footer">
-</p>
