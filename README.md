@@ -29,7 +29,7 @@ Delish List Repositories: <a href="https://github.com/leahcarlin/delishlist-fron
 
 For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
 
-Give me the GIF Repositories: <a href="https://github.com/leahcarlin/first-frontend">Front End</a> / <a href="https://github.com/leahcarlin/give-me-the-gif-backend">Back End</a>
+Give me the GIF Repositories: <a href="https://github.com/leahcarlin/give-me-the-gif-frontend">Front End</a> / <a href="https://github.com/leahcarlin/give-me-the-gif-backend">Back End</a>
 
 ### Get In Touch:
 
