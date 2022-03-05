@@ -33,7 +33,7 @@ Give me the GIF Repositories: <a href="https://github.com/leahcarlin/give-me-the
 
 ### Get In Touch:
 
-I'm based in Amsterdam, Netherlands, and currently looking for a new position that blends the art of design with the skill of programming to create impactful web applications.
+I'm based in Amsterdam, Netherlands, and currently working as a Frontend developer using Javascript and Vue.
 
 #### Let's connect!
 
