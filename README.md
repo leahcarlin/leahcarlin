@@ -20,23 +20,9 @@ I'm a full stack software developer originally from Boston, MA. I've lived in Am
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
-### Recent Projects:
-
-#### 🍔 Delish List
-
-For my Codaisseur portfolio project I built an app that allows users to create wish lists of restaurants they want to try. Users can share wish lists with friends and there can be multiple collaborators on a list. The front-end is created with JavaScript, React, Redux and CSS, and the back-end with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM. I fetched data from Google Places API and rendered a map for each restaurant as well.
-
-Delish List Repositories: <a href="https://github.com/leahcarlin/delishlist-frontend">Front End</a> / <a href="https://github.com/leahcarlin/delishlist-backend">Back End</a>
-
-#### 💻 Give me the GIF
-
-For a group-project we created an entertaining mood tracker for developers where they can enter how they're feeling and it will return a GIF related to that emotion. Login users can also write a journal entry and save it with their mood GIF to view a history of their saved feelings and journal entries. We fetched GIF's from GIPHY API and used Javascript, React, Redux, and CSS.
-
-Give me the GIF Repositories: <a href="https://github.com/leahcarlin/give-me-the-gif-frontend">Front End</a> / <a href="https://github.com/leahcarlin/give-me-the-gif-backend">Back End</a>
-
 ### Get In Touch:
 
-I'm based in Amsterdam, Netherlands, and currently working as a Frontend developer using Javascript and Vue.
+I'm based in Philadelphia, Pennsylvania and currently looking for a new role, either remote or hybrid!
 
 #### Let's connect!
 
