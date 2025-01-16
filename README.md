@@ -2,7 +2,7 @@
 
 <h2>I'm Leah Carlin!</h2>
 
-I'm a full stack software developer originally from Boston, MA. I've lived in Amsterdam for the last 9 years but am moving to the Philadelphia area and looking for new work opportunities there. I’m interested in companies that create a positive and powerful impact for individuals and communities.
+I'm a front-end / full stack software developer originally from Boston, MA. I recently moved to the Philadelphia area after living in Amsterdam for the last 9 years. Now I'm looking for a new role abd I’m interested in companies that create a positive and powerful impact for individuals and communities.
 
 ### Languages & Tools:
 
