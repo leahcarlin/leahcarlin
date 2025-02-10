@@ -20,6 +20,9 @@ I'm a front-end / full stack software developer originally from Boston, MA. I re
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
+### Example Projects
+- [Disney Quiz (React)](https://leahcarlin.github.io/react-disney-quiz/)
+
 ### Get In Touch:
 
 I'm based in Philadelphia, Pennsylvania and currently looking for a new role, either remote or hybrid!
