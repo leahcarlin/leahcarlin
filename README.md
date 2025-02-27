@@ -22,6 +22,7 @@ I'm a front-end / full stack software developer originally from Boston, MA. I re
 
 ### Example Projects
 - [Disney Quiz (React)](https://leahcarlin.github.io/react-disney-quiz/)
+- [Photo Mosaic Generator (Vue)](https://leahcarlin.github.io/vue-mosaic-generator/)
 
 ### Get In Touch:
 
