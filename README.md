@@ -26,7 +26,7 @@ I'm a front-end / full stack software developer originally from Boston, MA. I re
 
 ### Get In Touch:
 
-I'm based in Philadelphia, Pennsylvania and currently looking for a new role, either remote or hybrid!
+I'm based in Newtown Square, Pennsylvania and currently looking for a new role, either remote or hybrid!
 
 #### Let's connect!
 
